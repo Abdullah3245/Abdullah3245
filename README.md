@@ -31,15 +31,6 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 - 🌟 Science Olympiad participant with a focus on computational thinking.
 - 🚀 Contributed to collaborative research in innovative academic projects.
 
-## 🔗 Connect With Me:
-- **GitHub:** [Your GitHub Link](https://github.com/YourUsername)
-- **LinkedIn:** [Your LinkedIn Link](https://www.linkedin.com/in/YourUsername)
-- **Portfolio:** [Your Portfolio](#)
-
----
-
-This layout is professional and personal, highlighting skills, interests, and current projects. Let me know if you'd like any changes or if you want specific links added!
-
 <!--
 **Abdullah3245/Abdullah3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
