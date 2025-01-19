@@ -16,10 +16,6 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 - **Game Development:** Unity
 - **Design Tools:** Figma, Adobe Photoshop, Illustrator, InDesign
 
-## 🛠️ What I'm Working On:
-- **📚 Course Projects:** Advanced graph algorithms, stack-based compilers, and more.
-- **🕹️ Game Development:** Crafting unique experiences in Unity.
-- **🌌 Aerospace Exploration:** Exploring machine learning for aerospace systems and simulations.
 
 ## 🎓 Education:
 **University of Pennsylvania**  
@@ -27,9 +23,6 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 - **Graduation:** May 2027  
 - **GPA:** 3.70
 
-## 🏆 Achievements:
-- 🌟 Science Olympiad participant with a focus on computational thinking.
-- 🚀 Contributed to collaborative research in innovative academic projects.
 
 <!--
 **Abdullah3245/Abdullah3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
