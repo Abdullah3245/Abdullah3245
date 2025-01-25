@@ -7,11 +7,11 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 - 🖥️ Software Development and Systems Design
 - 🤖 Artificial Intelligence and Machine Learning
 - 🎮 Game Development and Research
-- 🚀 Space Engineering and Aerospace Innovation
+
 
 ## 🔧 Tech Stack:
 - **Programming Languages:** Java, C#, Python, OCaml, JavaScript, RISC-V Assembly
-- **Frameworks & Tools:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Node.js
+- **Frameworks & Tools:** NumPy, React, Node.js, Express, MongoDB, Pandas, Scikit-learn, PyTorch, TensorFlow, Node.js
 - **Data Science:** Jupyter Notebook, XGBoost
 - **Game Development:** Unity
 - **Design Tools:** Figma, Adobe Photoshop, Illustrator, InDesign
@@ -21,7 +21,7 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 **University of Pennsylvania**  
 - **Degree:** Bachelor of Science in Engineering (Computer Science)  
 - **Graduation:** May 2027  
-- **GPA:** 3.70
+
 
 
 <!--
