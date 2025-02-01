@@ -12,8 +12,7 @@ I am a Computer Science student at the University of Pennsylvania, passionate ab
 ## 🔧 Tech Stack:
 - **Programming Languages:** Java, C#, Python, OCaml, JavaScript, RISC-V Assembly
 - **Frameworks & Tools:** NumPy, React, Node.js, Express, MongoDB, Pandas, Scikit-learn, PyTorch, TensorFlow, Node.js
-- **Data Science:** Jupyter Notebook, XGBoost
-- **Game Development:** Unity
+- **Game Development:** Unity with C#
 - **Design Tools:** Figma, Adobe Photoshop, Illustrator, InDesign
 
 
