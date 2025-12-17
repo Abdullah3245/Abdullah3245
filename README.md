@@ -1,39 +1,48 @@
-# Hi 👋 I'm Muhammad Abdullah Goher
+# Hi, I’m Muhammad Abdullah Goher 
 
-## 🚀 About Me:
-I am a Computer Science student at the University of Pennsylvania, passionate about building efficient software systems, exploring machine learning, and contributing to impactful projects. 
+## About Me
+I’m a junior at the University of Pennsylvania pursuing a B.S.E. in Computer Science with a concentration in Artificial Intelligence. I enjoy building **end-to-end software systems**, combining full-stack engineering with data-driven and machine learning approaches to solve real-world problems.
 
-## 🌟 My Interests:
-- 🖥️ Software Development and Systems Design
-- 🤖 Artificial Intelligence and Machine Learning
-- 🎮 Game Development and Research
+---
 
+## Education
+**University of Pennsylvania — School of Engineering and Applied Science**  
+**Bachelor of Science in Engineering, Computer Science (Artificial Intelligence)**  
+Expected Graduation: **May 2027**
 
-## 🔧 Tech Stack:
-- **Programming Languages:** Java, C#, Python, OCaml, JavaScript, RISC-V Assembly
-- **Frameworks & Tools:** NumPy, React, Node.js, Express, MongoDB, Pandas, Scikit-learn, PyTorch, TensorFlow, Node.js
-- **Game Development:** Unity with C#
-- **Design Tools:** Figma, Adobe Photoshop, Illustrator, InDesign
+---
 
+## Interests
+- Full-Stack Software Engineering  
+- Systems Design & Backend Development  
+- Machine Learning & Data Science  
+- Game Development & Interactive Systems  
 
-## 🎓 Education:
-**University of Pennsylvania**  
-- **Degree:** Bachelor of Science in Engineering (Computer Science)  
-- **Graduation:** May 2027  
+---
 
+## Tech Stack
 
+### Programming Languages
+- Java  
+- C  
+- Python  
+- JavaScript / TypeScript  
+- R  
+- RISC-V Assembly  
 
-<!--
-**Abdullah3245/Abdullah3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Frameworks & Tools
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+- PostgreSQL  
+- REST APIs  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning & Data Science
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- PyTorch  
+- TensorFlow  
+- Apache Spark
+- Geopandas
