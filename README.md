@@ -1,13 +1,14 @@
 # Hi, I’m Muhammad Abdullah Goher 
 
 ## About Me
-I’m a junior at the University of Pennsylvania pursuing a B.S.E. in Computer Science with a concentration in Artificial Intelligence. I enjoy building **end-to-end software systems**, combining full-stack engineering with data-driven and machine learning approaches to solve real-world problems.
+I’m a junior at the University of Pennsylvania pursuing a M.S.E & B.S.E. in Computer Information Science. I enjoy building **end-to-end software systems**, combining full-stack engineering with data-driven and machine learning approaches to solve real-world problems.
 
 ---
 
 ## Education
 **University of Pennsylvania — School of Engineering and Applied Science**  
-**Bachelor of Science in Engineering, Computer Science (Artificial Intelligence)**  
+**Bachelor of Science in Engineering, Computer Information Science** 
+**Masters of Science in Engineering, Computer Information Science**
 Expected Graduation: **May 2027**
 
 ---
