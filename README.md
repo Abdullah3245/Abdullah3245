@@ -7,7 +7,7 @@ I’m a junior at the University of Pennsylvania pursuing a M.S.E & B.S.E. in Co
 
 ## Education
 **University of Pennsylvania — School of Engineering and Applied Science**  
-**Bachelor of Science in Engineering, Computer Information Science** 
+**Bachelor of Science in Engineering, Computer Information Science** <br>
 **Masters of Science in Engineering, Computer Information Science**
 Expected Graduation: **May 2027**
 
